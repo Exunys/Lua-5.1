@@ -1,8 +1,8 @@
-# Lua 5.1
+# Lua 5.1.5
 ## Information
-This is a tutorial on how to setup Lua 5.1
+This is a tutorial on how to setup Lua 5.1.5.
 ## Download
-- [Lua 5.1.5.0](https://github.com/Exunys/Lua-5.1/releases/download/lua/Lua.V5.1.5.0.rar)
+- [Lua 5.1.5.0](https://github.com/Exunys/Lua-5.1/releases/download/lua/Lua.V5.1.5.rar)
 ## Tutorial
 **Step 1**
 - Search for `Edit the system environment variables` or `environment` for short and open the panel with the corresponding name.
