@@ -1,4 +1,4 @@
-# Lua 5.1.5
+# Lua 5.1.5 setup guide [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Lua-5.1)](https://github.com/Exunys/Lua-5.1/tree/main)
 ## Information
 This is a tutorial on how to setup Lua 5.1.5.
 ## Download
